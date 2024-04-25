@@ -13,8 +13,8 @@ I am enthusiastic about collaborative ventures and expanding my professional net
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=arsalananwar11&theme=dark" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=arsalananwar11&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakriah-ibrahim&theme=dark" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=zakriah-ibrahim&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only" /></td>
     </tr>
   </table>
 </div>
