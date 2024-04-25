@@ -1,12 +1,14 @@
 ## 🚀 About Me 
 
-Hey! I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
+Hello! I'm Mohammed Zakriah Ibrahim, a dedicated graduate computer engineering student at New York University, specializing in machine learning and data science. With a robust background in computer science, I excel at crafting inventive solutions to intricate problems.
 
-**Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
+Proficient in Python (NumPy, Pandas, scikit-learn) and SQL, and skilled in data visualization using tools like Tableau, I am passionate about translating theoretical knowledge into tangible, real-world applications.
+
+I am enthusiastic about collaborative ventures and expanding my professional network. Let's connect and explore the exciting possibilities together!
 
 ---
 
-### ✨ GitHub Stats <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20Views&color=0e75b6&style=flat" alt="Arsalan Anwar's Github Stats" align="right"/> 
+### ✨ GitHub Stats <img src="https://komarev.com/ghpvc/?username=zakriah-ibrahim&label=Profile%20Views&color=0e75b6&style=flat"  align="right"/> 
 
 <div align="center">
   <table>
@@ -22,11 +24,11 @@ Hey! I'm a Data Scientist who loves playing with data using smart thinking and t
 ### 🎓 Education
 
 #### New York University
-###### **M.S. in Computer Science** | Sep 2023 - Present
-- **Relevant Coursework**: Design & Analysis of Algorithms, Machine Learning, Big Data, Deep Learning, Computer Vision, Foundation of Entrepreneurship (Stern)
+###### **M.S. in Computer Engineering** | Sep 2023 - Present
+- **Relevant Coursework**: Computer Systems Architecture, Internet Architecture and Protocols, Machine Learning, Deep Learning, High-Performance Machine Learning, Big Data
 
-#### Bangalore Institute of Technology
-###### **B.Tech in Computer Science** | Aug 2016 - Aug 2020
+#### Visvesvaraya Technological University
+###### **B.E in Computer Science and Engineering** | Aug 2019 - Aug 2023
 - **Relevant Coursework**: Design & Analysis of Algorithms, SQL (Database Management Systems), Artificial Intelligence, Machine Learning, Operating Systems
 
 ---
@@ -36,38 +38,21 @@ Hey! I'm a Data Scientist who loves playing with data using smart thinking and t
 - **Languages**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 - **Frameworks/ Libraries**:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLFlow-025E88?style=flat-square&logo=mlflow&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 
 - **Tools/ Technologies**:
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0175C2?style=flat-square&logo=azure-devops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-026D8E?style=flat-square&logo=snowflake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- **Operating Systems**:
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=apple&logoColor=white)
-
 ---
-
 
 
 ### 📮 Connect with Me
@@ -78,4 +63,3 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 ---
 
-🌐 _While you're here, don't forget to check out my repositories below!_
